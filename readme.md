@@ -13,3 +13,8 @@
 ## Funcionalidades bônus
 - Avaliar críticas
 - Encontrar onde assistir online
+
+## Aplicações semelhantes
+- [Adoro Cinema](https://www.adorocinema.com/)
+- [Rotten Tomatoes](https://www.rottentomatoes.com/)
+
